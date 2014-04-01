@@ -138,7 +138,8 @@ public class ParkkingLotFinal extends JFrame{
 
                             JOptionPane.showMessageDialog( ParkkingLotFinal.this,
                                     "A SOLUTION WAS FOUND!\nTHE BOARD SHOULD LOOK LIKE THIS "+
-                                            "IF YOU SOLVE IT.\nMOVING ON TO THE NEXT PUZZLE!",
+                                            "IF YOU SOLVE IT.\nMOVING ON TO THE NEXT PUZZLE!\n" +
+                                            " (PLEASE DRAG THIS WINDOW OUT OF THE WAY TO SEE THE SOLUTION)",
                                     "solve", JOptionPane.PLAIN_MESSAGE );
                         }
 
