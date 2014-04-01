@@ -31,18 +31,6 @@ suggested that students use in the write-up, with some added constraints:
 - the order of the integers for each piece is as follows:
 - row, column, width, height, movement
   
-Here's an example (the first puzzle in the game):
-
-6 6
-3 2 2 1 h
-1 5 1 3 v
-1 6 1 2 v
-2 4 1 2 v
-3 1 1 3 v
-3 6 1 2 v
-4 2 1 3 v
-4 3 3 1 h
-5 4 3 1 h
 
 Please note the single spaces between each number, and please note that the program assumes perfect file input:
 there is NO error checking for the format of the file.
