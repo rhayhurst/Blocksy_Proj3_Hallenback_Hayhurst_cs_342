@@ -1,4 +1,4 @@
-Blocksy_Proj3_Hallenback_Hayhurst_CS_342
+Blocksy_Proj3_Hallenbeck_Hayhurst_CS_342
 ========================================
 
 How to Load This Project
