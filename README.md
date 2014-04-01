@@ -54,6 +54,8 @@ ________________________________________________________________________________
 When using the "solve" button using the supplied puzzles, finding the solutions can take up to fifteen seconds.
 If you choose to add a puzzle, please be patient.
 
+Please note that we will be providing a full write up and JavaDoc later on this week (today is Mon March 31, 2014).
+
 Finally, thanks for grading this project!
 
 
